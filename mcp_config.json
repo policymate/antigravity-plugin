@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "policymate": {
+      "serverUrl": "https://app.policymate.io/mcp/policymate"
+    }
+  }
+}

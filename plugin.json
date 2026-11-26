@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "policymate",
+  "displayName": "PolicyMate",
+  "version": "1.0.0",
+  "description": "Search legislation, regulation, hearings and transcripts, and read your PolicyMate feed, daily briefings and upcoming events.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "What are the three most important updates in my PolicyMate feed this week?",
+    "Which hearings and committee meetings are coming up in my PolicyMate spaces?",
+    "Turn this morning's PolicyMate briefing into a short client email"
+  ],
+  "author": {
+    "name": "PolicyMate",
+    "url": "https://policymate.io"
+  },
+  "homepage": "https://policymate.io",
+  "repository": "https://github.com/policymate/antigravity-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "policy",
+    "legislation",
+    "regulation",
+    "public-affairs",
+    "government-relations",
+    "parliament",
+    "monitoring"
+  ]
+}
